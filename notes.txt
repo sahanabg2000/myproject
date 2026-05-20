@@ -1,2 +1,3 @@
 Learning Git
 Git is powerful
+Git is easy
