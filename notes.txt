@@ -1,4 +1,4 @@
 Learning Git
-Git is powerful
+Git is Amazing
 Git is easy
 This is feature branch
